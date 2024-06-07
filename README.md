@@ -8,4 +8,4 @@ Public slides of presentations
 
 ## UI5con 2024 (St. Leon-Rot, 05.06.2024)
 
-[On the road to general adoption of OData V4](./2024.06.05_UI5con_Rot/2024_UI5con_On\ the\ road\ to\ general\ adoption\ of\ OData\ V4\ Hierarchy\ support\ etc.pdf)
+[On the road to general adoption of OData V4](./2024.06.05_UI5con_Rot/2024_UI5con_On the road to general adoption of OData V4 Hierarchy support etc.pdf)
